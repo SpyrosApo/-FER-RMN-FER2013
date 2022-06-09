@@ -6,7 +6,7 @@ conda env create -f environment.yml
 ```
 **Step 2. Download processed fer2013 CSV files from this link**
 ```
-https://www.dropbox.com/sh/qgs1repy0v32mjv/AABmVjxwVTYI70lUhVajeoNCa?dl=0
+https://1drv.ms/u/s!AmeTT2EpSz40hRbRieQ2kiQGLQ20?e=I27fR1
 ```
 **The original dataset can be found from this link**
 ```
@@ -18,7 +18,7 @@ data
 ```
 **Step 4. Download pre-trained models from this link**
 ```
-https://www.dropbox.com/sh/zqyvop8xximtqtr/AABRwnQsXHk_q672YyHiGYFCa?dl=0
+https://1drv.ms/u/s!AmeTT2EpSz40hFYvpEYq3gvIUTE5?e=XgTXwb
 ```
 **Step 5. Put the pre-trained models in the following folder**
 ```
